@@ -1,4 +1,4 @@
-module github.com/drone/drone-template-lib
+module github.com/glaszig/drone-template-lib
 
 go 1.13
 
